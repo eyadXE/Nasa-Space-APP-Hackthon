@@ -43,4 +43,4 @@ We’re on a mission to demystify the complex world of carbon footprints! Throug
 ---
 
 ### Developed by: 
-- **Team Members**: [Add Team Names and Roles]
+- **Team Members**: Eyad Magdy,Adelsobhy,AmrKhaled
