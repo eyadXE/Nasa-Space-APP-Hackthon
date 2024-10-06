@@ -1,7 +1,9 @@
 # Nasa-Space-APP-Hackthon
 # Tell Us a Climate Story!
 
-# Acess our Project : https://6700da29f9b533a44318d2e8--lambent-unicorn-936929.netlify.app/
+## Acess our Project : https://6700da29f9b533a44318d2e8--lambent-unicorn-936929.netlify.app/
+## Our Presentaion OverView : https://docs.google.com/presentation/d/1CjvE4jzm617rwc1tV7fyOESNu_fQWHIsI0l_AH8UO2E/edit#slide=id.p6
+
 ## Purpose:
 Most people are unaware of how their everyday actions impact the climate. Eventually, that will tremendously impact their actions against their own environment, not knowing how badly they are harming it directly or indirectly.
 
