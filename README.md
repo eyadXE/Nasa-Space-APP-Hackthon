@@ -3,10 +3,11 @@
 
 ## Access our Project : https://6700da29f9b533a44318d2e8--lambent-unicorn-936929.netlify.app/
 ## Our Presentaion OverView : https://docs.google.com/presentation/d/1CjvE4jzm617rwc1tV7fyOESNu_fQWHIsI0l_AH8UO2E/edit#slide=id.p6
+## All this Project developed in 48h
 
 ## Purpose:
 Most people are unaware of how their everyday actions impact the climate. Eventually, that will tremendously impact their actions against their own environment, not knowing how badly they are harming it directly or indirectly.
-## All this Project developed in 48h
+
 
 ## Importance:
 We’re on a mission to demystify the complex world of carbon footprints! Through captivating storytelling and by breaking down these hard concepts into relatable and engaging insights (Dynamic Webpage), we empower everyone to truly understand their personal impact on the planet. Let’s turn knowledge into action and inspire change—together! With a story-oriented approach, we aimed our machine learning models at simplifying people’s understanding, providing evidence, relationships, and proof based on real-life data (authentic papers).
