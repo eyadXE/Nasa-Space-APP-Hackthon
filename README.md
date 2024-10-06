@@ -6,6 +6,7 @@
 
 ## Purpose:
 Most people are unaware of how their everyday actions impact the climate. Eventually, that will tremendously impact their actions against their own environment, not knowing how badly they are harming it directly or indirectly.
+## All this Project developed in 48h
 
 ## Importance:
 We’re on a mission to demystify the complex world of carbon footprints! Through captivating storytelling and by breaking down these hard concepts into relatable and engaging insights (Dynamic Webpage), we empower everyone to truly understand their personal impact on the planet. Let’s turn knowledge into action and inspire change—together! With a story-oriented approach, we aimed our machine learning models at simplifying people’s understanding, providing evidence, relationships, and proof based on real-life data (authentic papers).
